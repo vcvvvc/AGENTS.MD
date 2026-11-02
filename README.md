@@ -1,5 +1,6 @@
 # CLAUDE.MD
-重新整理一份新的全局指令
+
+直接查看 https://github.com/vcvvvc/CLAUDE.MD/blob/main/CLAUDE_ZH_simple.md
 
 ---
 
