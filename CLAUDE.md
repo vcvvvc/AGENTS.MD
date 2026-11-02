@@ -1,2 +1,2 @@
-@CLAUDE_ZH_simple.md
+@CLAUDE_simple.md
 
