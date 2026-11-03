@@ -1,2 +1,0 @@
-@CLAUDE_simple.md
-
